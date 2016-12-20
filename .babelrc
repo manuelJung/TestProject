@@ -1,0 +1,9 @@
+{
+    "presets": ["react-native"],
+    "sourceMaps": true,
+    "plugins": [
+    ["babel-root-slash-import", {
+      "rootPathSuffix": "src"
+    }]
+  ]
+}
